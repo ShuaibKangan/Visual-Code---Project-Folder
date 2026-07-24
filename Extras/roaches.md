@@ -3,14 +3,16 @@
 # - Cockroaches are mostly scavengers, consuming both plant and animal products.
 
 # - Cockroaches can run up to 4.8kmph
-# |       Body            |         Fact               |
+
+# |-----------------------|----------------------------|
+# |         Body          |           Facts            |
 # |-----------------------|----------------------------|
 # |                       | A hardened, protective egg |
 # |       Ootheca         | capsule produce by females |
-# |_----------------------|----------------------------|
+# |-----------------------|----------------------------|
 # |                       | Multifunctional sensory    |
-# |       Antennae        | appendage that generates   |
-# |                       | the olfaactory, gustatory, |
+# |                       | appendage that generates   |
+# |       Antennae        | the olfaactory, gustatory, |
 # |                       | tactile, thermal, and      |
 # |                       | humidity senses.           |
 # |-----------------------|----------------------------|
@@ -27,4 +29,4 @@
 # https://www.westernexterminator.com/cockroaches/cockroach-eggs
 # https://topest.ca/do-cockroaches-have-wings/
 
-![Roach attack!] (Roach_Attack.jpg)
+![Roach attack!](Roach_Attack.jpg)
